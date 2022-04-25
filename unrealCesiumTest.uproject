@@ -15,6 +15,15 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "RuntimeMeshLoader",
+			"Enabled": true
+		},
+		{
+			"Name": "NetDBPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7f151e336eea43fe8f023cf101d0fb8d"
 		}
 	]
 }
